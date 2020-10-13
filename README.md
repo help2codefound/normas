@@ -48,7 +48,7 @@ Simplemente son canales donde uno puede participar para consultar o responder du
 
 ***Respecto a las mesas del café ☕:***<br>
 **1.** Estos son lugares mas privados que cualquiera puede usar libremente para charlar por texto/voz, poner música o transmitir video.<br>
-**2.** Se debe ejecutar el comando !limpiar antes de irse para vaciar el chat de texto así puede usarlo otra persona.<br>
+**2.** Se debe ejecutar el comando **!cuenta** antes de irse para vaciar el chat de texto así puede usarlo otra persona.<br>
 
 ***Sobre 🤓Guías/Tutoriales🤓:***<br>
 Acá se encuentran posteados todos los link sobre documentacion/guía/tutoriales de los distintos lenguajes/frameworks.<br>
